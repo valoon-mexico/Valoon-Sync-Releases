@@ -1,47 +1,74 @@
- ---                                                                                                                                                                                                                              
-  ValoonSync                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                   
-  Sync your Valoon media files to your local drive — automatically.                                                                                                                                                                
-                                                                                                                                                                                                                                   
-  A desktop companion for https://valoon.chat that downloads and keeps your project files in sync.
+<div align="center">
 
+# 🔄 ValoonSync
 
+### Sync your Valoon media files to your local drive — automatically.
 
+**A desktop companion for [Valoon](https://valoon.chat)** that downloads and keeps your project files in sync.
 
+<div align="center">
 
-  ---
-  🔗 Want to see it in action?
+### [⬇️ Download Latest](https://github.com/Cantuuuu/Valoon-Sync-Releases/releases/latest) · [🚀 Try Free Demo](https://valoon.chat)
 
-  Try the full experience with a free demo at https://valoon.chat
+`Windows 10+`
 
-  ---
-  What is ValoonSync?
+</div>
 
-  ValoonSync is a Windows desktop app that connects to your https://valoon.chat workspace and syncs media files directly to a local folder. No manual downloads, no missing assets.
+</div>
 
-  - One-click sync — Select a project, pick a folder, and sync.
-  - Smart tracking — Only downloads new or changed files, skipping what you already have.
-  - Multi-language — Available in English, Español, Deutsch, and Français.
-  - Lightweight — Runs quietly with minimal resource usage.
+---
 
-  Getting Started
+## 🎬 Want to see it in action?
 
-  1. Download and install ValoonSync.
-  2. Log in with your Valoon account.
-  3. Select a project and choose a local folder.
-  4. Hit Sync — your files will be downloaded automatically.
+> Try the full experience with a **free demo** at **[valoon.chat](https://valoon.chat)** — no card, no hassle.
 
-  ▎ Don't have a Valoon account yet? Start a free demo at https://valoon.chat and see what ValoonSync can do for you.
+<!-- Tip: a GIF showing the flow select project → folder → sync works great here -->
+<!-- ![ValoonSync demo](docs/demo.gif) -->
 
-  Requirements
+---
 
-  - Windows 10 or later
+## ✨ What is ValoonSync?
 
-  Feedback & Support
+**ValoonSync** is a Windows desktop app that connects to your **[Valoon](https://valoon.chat)** workspace and syncs media files directly to a local folder.
 
-  For questions, issues, or feature requests, reach out through https://valoon.chat.
+**No manual downloads. No missing assets.**
 
-  ---
-  Made by https://valoon.chat
+| | |
+|---|---|
+| 🖱️ **One-click sync** | Select a project, pick a folder, and sync. |
+| 🧠 **Smart tracking** | Only downloads new or changed files — skips what you already have. |
+| 🌍 **Multi-language** | Available in English, Español, Deutsch, and Français. |
+| 🪶 **Lightweight** | Runs quietly with minimal resource usage. |
 
-  ---
+---
+
+## 🚀 Getting Started
+
+1. **Download and install** ValoonSync.
+2. **Log in** with your Valoon account.
+3. **Select a project** and choose a local folder.
+4. **Hit Sync** — your files download automatically. ✅
+
+> 💡 **Don't have a Valoon account yet?**
+> Start a **[free demo at valoon.chat](https://valoon.chat)** and see what ValoonSync can do for you.
+
+---
+
+## ⚙️ Requirements
+
+- Windows 10 or later
+
+---
+
+## 💬 Feedback & Support
+
+Questions, issues, or feature requests?
+Reach out through **[valoon.chat](https://valoon.chat)**.
+
+---
+
+<div align="center">
+
+Made with ❤️ by **[Valoon](https://valoon.chat)**
+
+</div>
