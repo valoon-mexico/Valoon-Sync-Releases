@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### [⬇️ Download Latest](https://github.com/Cantuuuu/Valoon-Sync-Releases/releases/latest) · [🚀 Try Free Demo](https://valoon.chat)
+### [⬇️ Download Latest](https://github.com/valoon-mexico/Valoon-Sync-Releases/releases/latest) · [🚀 Try Free Demo](https://valoon.chat)
 
 `Windows 10+`
 
