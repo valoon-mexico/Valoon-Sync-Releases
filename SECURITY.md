@@ -18,7 +18,7 @@
   or any Valoon service, please report it **privately** — do not open a
   public issue.
 
-  - 📧 Email: **info@valoon.chat**
+  - 📧 Email: **support@valoon.chat**
   - Include: a description of the issue, steps to reproduce, affected version,
     and any relevant logs or screenshots.
 
