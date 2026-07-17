@@ -24,7 +24,7 @@
 
   ### Where to send it
 
-  Email the ZIP to **info@valoon.chat**, including:
+  Email the ZIP to **support@valoon.chat**, including:
 
   - The generated report ZIP (attached)
   - Your ValoonSync version (visible in Settings)
