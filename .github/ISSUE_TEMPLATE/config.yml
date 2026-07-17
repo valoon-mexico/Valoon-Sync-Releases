@@ -1,5 +1,5 @@
 blank_issues_enabled: false
-  contact_links:
-    - name: ❓  Questions about Valoon
-      url: https://valoon.chat
-      about: For questions about your account, projects, or subscription.
+contact_links:
+  - name: ❓ Questions about Valoon
+    url: https://valoon.chat
+    about: For questions about your account, projects, or subscription.
