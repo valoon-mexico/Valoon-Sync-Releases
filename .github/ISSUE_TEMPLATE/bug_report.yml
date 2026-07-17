@@ -1,0 +1,40 @@
+name: 🐛 Bug Report
+  description: Something isn't working in ValoonSync
+  labels: [bug]
+  body:
+    - type: input
+      id: version
+      attributes:
+        label: ValoonSync version
+        placeholder: "1.1.13"
+      validations:
+        required: true
+    - type: input
+      id: os
+      attributes:
+        label: Windows version
+        placeholder: "Windows 11 23H2"
+      validations:
+        required: true
+    - type: textarea
+      id: what-happened
+      attributes:
+        label: What happened?
+        description: Also tell us what you expected to happen.
+      validations:
+        required: true
+    - type: textarea
+      id: steps
+      attributes:
+        label: Steps to reproduce
+        placeholder: |
+          1. Open ValoonSync
+          2. Select project X
+          3. ...
+      validations:
+        required: true
+    - type: textarea
+      id: logs
+      attributes:
+        label: Diagnostic report or logs
+        description: "Settings → Support → Report a problem generates a diagnostic ZIP you can attach here (review it for sensitive data first)."
